@@ -1,4 +1,4 @@
-FROM ubuntu:15.10
+FROM ubuntu:15.04
 MAINTAINER Phusion <info@phusion.nl>
 
 ADD . /bd_build
